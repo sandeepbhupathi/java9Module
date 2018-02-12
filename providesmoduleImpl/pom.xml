@@ -9,19 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>test</artifactId>
-
+    <artifactId>providesmoduleImpl</artifactId>
     <dependencies>
-        <dependency>
-            <groupId>com.java9.sandy</groupId>
-            <artifactId>test2</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.java9.sandy</groupId>
-            <artifactId>openmodule</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
         <dependency>
             <groupId>com.java9.sandy</groupId>
             <artifactId>providesmodule</artifactId>

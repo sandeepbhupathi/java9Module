@@ -11,6 +11,9 @@
     <modules>
         <module>test</module>
         <module>test2</module>
+        <module>openmodule</module>
+        <module>providesmodule</module>
+        <module>providesmoduleImpl</module>
     </modules>
     <properties>
         <maven.version>3.3.9</maven.version>

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/openmodule/openmodule.iml" filepath="$PROJECT_DIR$/openmodule/openmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providesmodule/providesmodule.iml" filepath="$PROJECT_DIR$/providesmodule/providesmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providesmoduleImpl/providesmoduleImpl.iml" filepath="$PROJECT_DIR$/providesmoduleImpl/providesmoduleImpl.iml" />
       <module fileurl="file://$PROJECT_DIR$/sandyjava9new.iml" filepath="$PROJECT_DIR$/sandyjava9new.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />

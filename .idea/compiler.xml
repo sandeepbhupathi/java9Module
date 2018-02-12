@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="openmodule" />
+        <module name="providesmodule" />
+        <module name="providesmoduleImpl" />
         <module name="test" />
         <module name="test2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="openmodule" target="1.9" />
+      <module name="providesmodule" target="1.9" />
+      <module name="providesmoduleImpl" target="1.9" />
       <module name="sandyjava9new" target="1.9" />
       <module name="test" target="1.9" />
       <module name="test2" target="1.9" />
